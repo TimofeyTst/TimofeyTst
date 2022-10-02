@@ -1,5 +1,5 @@
 # TimofeyTst
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=EDF4ED&vCenter=true&width=450&lines=Hi!%F0%9F%A5%A5+I%60m+Timofey+Starzhevsky;Any+project+should+surprise+others+%F0%9F%93%B8;%F0%9F%91%89+Frontend%2FBackend+developer+" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=B511FFE4&vCenter=true&width=450&lines=Hi!+%F0%9F%A5%A5+%E2%A0%80I%60m+Timofey+Starzhevsky;Any+project+should+surprise+others+%F0%9F%93%B8;%F0%9F%91%89+Frontend%2FBackend+developer+" alt="Typing svg About Me" /></a>
 
 ## Tech Stack
 - **Frontend**: <b> ```CSS``` &nbsp; ```HTML``` &nbsp; ```Javascript```</b><br>
