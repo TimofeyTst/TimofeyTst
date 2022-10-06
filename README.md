@@ -4,7 +4,7 @@
 ## Tech Stack
 - **Frontend**: <b> ```CSS``` &nbsp; ```HTML``` &nbsp; ```Javascript```</b><br>
 
-- **Backend**:<b> ```Ruby``` &nbsp;  ```Node.js``` &nbsp; ```Oracle, PostgreSQL, MySQL``` &nbsp; </b> <b>```Python [FastApi, Pydantic, SQLAlchemy...]``` &nbsp; ```C++ OpenSSL, STL, boost, TeleBot...]``` &nbsp;  ```...```</b><br>
+- **Backend**:<b> ```Ruby``` &nbsp;  ```Node.js``` &nbsp; ```Oracle, PostgreSQL, MySQL``` &nbsp; </b> <b>```Python [FastApi, Pydantic, SQLAlchemy...]``` &nbsp; ```C++ [OpenSSL, STL, boost, TeleBot...]``` &nbsp;  ```...```</b><br>
 
 - **Frameworks/Environments**: <b> ```Ruby on Rails``` &nbsp; ```QT Creator``` &nbsp; ```Delphi``` &nbsp; ```VS Code/VS Community``` &nbsp; ```...```</b><br>
 - **Interests**: <b> ```BlockChain``` &nbsp; ```Cryptocurrency```  &nbsp;```Making Photoes``` &nbsp; ```Business```  &nbsp;</b>
