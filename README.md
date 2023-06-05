@@ -12,6 +12,11 @@
 - **Interests**: <b> ```BlockChain``` &nbsp; ```Cryptocurrency```  &nbsp;```Making Photos``` &nbsp;</b>
 - **Goal for 5 years**: <b> ```Product Manager``` &nbsp;
 
+## My public projects
+- [IWant](https://github.com/TimofeyTst/IWant)
+> Photo interests social network
+- Queue_Analyser [backend](https://github.com/kotoBOPOT/Queue_Analyser_back/) + [frontend](https://github.com/TimofeyTst/queue_analyser_front)
+> Queue Analyser – русскоязычный сервис, предназначенный для сканирования видеопотока с камер видео наблюдения и предоставления информации о числе людей в заведении. На Backend части я писал С++ HTTP TCP/IP сервер. Проект является выпускной работой 1 семестра в VK Education курса "Программирование на современном C++".
 
 > ## Connect with Me
 
