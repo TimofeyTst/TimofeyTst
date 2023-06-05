@@ -2,13 +2,15 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=B511FFE4&vCenter=true&width=450&lines=Hi!+%F0%9F%A5%A5+%E2%A0%80I%60m+Timofey+Starzhevsky;Any+project+should+surprise+others+%F0%9F%93%B8;%F0%9F%91%89+Frontend%2FBackend+developer+" alt="Typing svg About Me" /></a>
 
 ## Tech Stack
-- **Frontend**: <b> ```CSS``` &nbsp; ```HTML``` &nbsp; ```Javascript```</b><br>
+- **Frontend**: <b> ```React: redux, webpack``` &nbsp; ```Javascript``` ```Module CSS``` &nbsp; ```HTML``` &nbsp; </b><br>
 
-- **Backend**:<b> ```Ruby``` &nbsp;  ```Node.js``` &nbsp; ```Oracle, PostgreSQL, MySQL``` &nbsp; </b> <b>```Python [FastApi, Pydantic, SQLAlchemy...]``` &nbsp; ```C++ [OpenSSL, STL, boost, TeleBot...]``` &nbsp;  ```...```</b><br>
+- **Backend**: <b>```Python [Django, Flask, FastApi]```, &nbsp; ```C++ [OpenSSL, STL, boost, TeleBot...]```, &nbsp;  <b> ```Ruby on Rails```, &nbsp; </b> <b>```[Oracle, PostgreSQL, SQLite]```</b> <br>
 
-- **Frameworks/Environments**: <b> ```Ruby on Rails``` &nbsp; ```QT Creator``` &nbsp; ```Delphi``` &nbsp; ```VS Code/VS Community``` &nbsp; ```...```</b><br>
+- **ML**: <b> ```Python [sklearn, scipy, sparse, distance, nltk, pymystem3, pymorphy2, torch, kneed, catboost, crowdkit.aggregation ROVER, tqdm, librosa]``` </b> <br>
+  
+- **Other Frameworks/Environments**: <b> ```QT Creator``` &nbsp; ```Delphi``` &nbsp; ```VS Code/VS Community``` &nbsp; </b><br>
 - **Interests**: <b> ```BlockChain``` &nbsp; ```Cryptocurrency```  &nbsp;```Making Photos``` &nbsp;</b>
-- **Goal for 5 years**: <b> ```Become a Product Manager``` &nbsp;
+- **Goal for 5 years**: <b> ```Product Manager``` &nbsp;
 
 
 > ## Connect with Me
