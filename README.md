@@ -1,5 +1,5 @@
 # TimofeyTst
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=B511FFE4&vCenter=true&width=450&lines=Hi!+%F0%9F%A5%A5+%E2%A0%80I%60m+Timofey;%F0%9F%91%89+Frontend%2FBackend+developer+" alt="Typing svg About Me" /></a>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AD1F7&random=false&width=435&lines=Hello!+My+name+Timofey+Starzhevsky;I+am+backend+developer;Also+I+like+DevOps)](https://git.io/typing-svg)
 
 ## Tech Stack
 - **Backend**: <b>```Python```, &nbsp; ```FastAPI```, &nbsp;  <b> ```Django```, &nbsp; </b> <b>```PyTest```</b>, &nbsp; <br>
