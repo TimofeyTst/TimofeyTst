@@ -2,15 +2,15 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=B511FFE4&vCenter=true&width=450&lines=Hi!+%F0%9F%A5%A5+%E2%A0%80I%60m+Timofey;%F0%9F%91%89+Frontend%2FBackend+developer+" alt="Typing svg About Me" /></a>
 
 ## Tech Stack
-- **Backend**: <b>```Python```, &nbsp; ```FastAPI```, &nbsp;  <b> ```Django```, &nbsp; </b> <b>```PyTest```</b>, &nbsp; <b>```ML```</b> <br>
+- **Backend**: <b>```Python```, &nbsp; ```FastAPI```, &nbsp;  <b> ```Django```, &nbsp; </b> <b>```PyTest```</b>, &nbsp; <br>
 
-- **Frontend**: <b> ```React``` &nbsp; </b><br>
+- **DB**: <b> ```PostgreSQL``` &nbsp; </b> <b> ```Redis``` &nbsp; </b> <b> ```FireBase``` &nbsp; </b> <br>
 
-- **DB**: <b> ```PostgreSQL``` &nbsp; </b> <b> ```SQLite``` &nbsp; </b> <b> ```Redis``` &nbsp; </b> <b> ```Kafka``` &nbsp; </b> <br>
+- **DevOps**: <b> ```CI/CD``` &nbsp; </b>  <b> ```Docker-compose``` &nbsp; </b> <b> ```Kubernetes``` &nbsp; </b>  <b> ```Prometheus``` &nbsp; </b>  <b> ```Grafana``` &nbsp; </b>  <b> ```Jaeger``` &nbsp; </b>  <b> ```Nginx``` &nbsp; </b> <b> ```Linux``` &nbsp; </b> <br>
 
-- **DevOps**: <b> ```Docker``` &nbsp; ```Docker-compose``` &nbsp; ```GitLab/GitHub CI/CD``` &nbsp; </b><br>
+- **MicroServices**: <b> ```RabbitMQ``` &nbsp; </b>  <b> ```Kafka``` &nbsp; </b> <b> ```Centrifugo``` &nbsp; </b>  <br>
 
-- **Interests**: <b> ```Invetment``` &nbsp; ```BlockChain``` &nbsp; ```Cryptocurrency```  &nbsp;```Making Photos``` &nbsp;</b>
+- **Interests**: <b> ```Investments``` &nbsp; ```BlockChain``` &nbsp; ```Cryptocurrency```  &nbsp; ```Making Photos``` &nbsp;</b>
 
 ## My public projects
 - [Scheduled delivery API](https://gitlab.com/TimofeyTst/scheduled_delivery_api)
