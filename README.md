@@ -13,20 +13,25 @@
 - **Interests**: <b> ```Investments``` &nbsp; ```BlockChain``` &nbsp; ```Cryptocurrency```  &nbsp; ```Making Photos``` &nbsp;</b>
 
 ## My public projects
+- [Virtual Wardrobe](https://github.com/WIP-VK-Spring-2024)
+> Мобильное приложение, в которое пользователь может загрузить свою одежду и получить рекомендации образов, а также примерить их на свое фото.
+
+- [EatPlace](https://github.com/EatPlace)
+> Микросервисный проект социальной сети для еды.
+
 - [Scheduled delivery API](https://gitlab.com/TimofeyTst/scheduled_delivery_api)
-> Сервис управления рассылками API администрирования и получения статистики
+> Сервис управления рассылками API администрирования и получения статистики.
 
 - UpConverter [backend](https://github.com/TimofeyTst/up_converter_backend) + [frontend](https://github.com/TimofeyTst/up_converter_frontend)
-> Интерфейс управления настройкой и маршрутизацией каналов в многокубитных линиях
+> Интерфейс управления настройкой и маршрутизацией каналов в многокубитных линиях.
 
 - [IWant](https://github.com/TimofeyTst/IWant)
 > Pinterest on Ruby on Rails
 
 - Queue Analyser [backend](https://github.com/kotoBOPOT/Queue_Analyser_back/) + [frontend](https://github.com/TimofeyTst/queue_analyser_front)
-> Queue Analyser – русскоязычный сервис, предназначенный для сканирования видеопотока с камер видео наблюдения и предоставления информации о числе людей в заведении. На Backend части я писал С++ HTTP TCP/IP сервер. Проект является командной выпускной работой 1 семестра в VK Education курса "Программирование на современном C++".
+> Анализатор очередей в заведениях по видео. Писал С++ HTTP сервер.
 
 > ## Connect with Me
 
 <a href="mailto:yarik.mist@gmail.com" target="blank"><img src="svg/logo-gmail.svg" alt="TimofeyTst" height="30" width="40"></a>
 <a href="https://t.me/Starzhev" target="blank"><img src="svg/logo-telegram.svg" alt="TimofeyTst" height="30" width="40"></a>
-<a href="https://vk.com/ad_vokat" target="blank"><img src="svg/logo-vk.svg" alt="TimofeyTst" height="30" width="40"></a>
