@@ -36,8 +36,5 @@
 <a href="mailto:yarik.mist@gmail.com" target="blank"><img src="svg/logo-gmail.svg" alt="TimofeyTst" height="30" width="40"></a>
 <a href="https://t.me/Starzhev" target="blank"><img src="svg/logo-telegram.svg" alt="TimofeyTst" height="30" width="40"></a>
 
-<a href="mailto:yarik.mist@gmail.com" target="blank"><img src="svg/logo-gmail.png" alt="TimofeyTst" height="30" width="40"></a>
-<a href="https://t.me/Starzhev" target="blank"><img src="svg/logo-telegram.png" alt="TimofeyTst" height="30" width="40"></a>
-
 <a href="mailto:yarik.mist@gmail.com" target="blank"><img src="svg/logo-gmail-v2.svg" alt="TimofeyTst" height="30" width="40"></a>
 <a href="https://t.me/Starzhev" target="blank"><img src="svg/logo-telegram-v2.svg" alt="TimofeyTst" height="30" width="40"></a>
